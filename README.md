@@ -2,9 +2,9 @@
 - 👀 I’m interested in Programming,Coading
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Coading
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can contact me via email at hammadakhter924@gmail.com. I'm always available for discussions and collaboration!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  I love programming and coding, and I'm always eager to learn new languages and technologies!
 
 <!---
 hammadakhter924/hammadakhter924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
